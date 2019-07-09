@@ -2,7 +2,7 @@
 
 A static marketing website for Huerta Legal, a private practice in San Diego
 
-![Splashwireframe](https://github.com/matthewhaotran/huertalegal/blob/master/images/huertalegalsplash.png?raw=true)
+![Splashwireframe](https://raw.githubusercontent.com/matthewhaotran/huertalegal/develop/images/huertalegalsplash.png)
 
 ## Demo Link
 
